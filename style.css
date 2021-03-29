@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+
+body {
+  background-color: #f9f3f3;
+}
+
+H1 {
+  text-align: center;
+  color: #252525;
+  font-family: Oswald;
+  font-size: 30px;
+}
+
+H2 {
+  text-align: center;
+  font-size: 30px;
+  font-family: Oswald;
+  color: #252525;
+}
+
+p {
+  font-size: 20px;
+  font-family: Rubik;
+}
+
+div {
+  border: 2px solid;
+  text-align: center;
+  margin: 30px 60px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #dddddd;
+  border-color: #252525;
+  box-shadow: 7px 7px 8px rgba(0, 0, 0, 0.1);
+}
+
+div:hover {
+  box-shadow: 0 7px 14px rgba(0, 0, 0, 0.2);
+}
+
+ul {
+  font-size: 20px;
+  font-family: Rubik;
+  text-align: left;
+}
+
+
+
